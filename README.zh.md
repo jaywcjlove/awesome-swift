@@ -51,6 +51,8 @@ Awesome Swift
 
 一个专门收集 Swift 依赖包、开发工具与学习资源的精选清单，面向 Apple 平台开发。
 
+<!--idoc:ignore:start-->
+
 ## 目录
 
 - [指南与学习](#指南与学习)
@@ -66,6 +68,8 @@ Awesome Swift
 - [CLI 与服务端](#cli-与服务端)
 - [资源与 Awesome 列表](#资源与-awesome-列表)
 - [贡献](#贡献)
+
+<!--idoc:ignore:end-->
 
 ## 指南与学习
 

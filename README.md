@@ -51,6 +51,8 @@ Awesome Swift
 
 A curated list of Swift packages, libraries, tools, and learning resources for Apple platform development.
 
+<!--idoc:ignore:start-->
+
 ## Contents
 
 - [Guides and Learning](#guides-and-learning)
@@ -66,6 +68,8 @@ A curated list of Swift packages, libraries, tools, and learning resources for A
 - [CLI and Server](#cli-and-server)
 - [Resources and Awesome Lists](#resources-and-awesome-lists)
 - [Contributing](#contributing)
+
+<!--idoc:ignore:end-->
 
 ## Guides and Learning
 
