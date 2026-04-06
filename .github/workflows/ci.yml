@@ -25,8 +25,8 @@ jobs:
           keywords: awesome, swift, swiftui, ios, macos, libraries, packages, developer-tools, learning-resources
           favicon: assets/logo.svg
           logo: ./assets/logo.svg
-          openSource: https://github.com/jaywcjlove/awesome-swift-macos-apps
-          homepage: https://wangchujiang.com/awesome-swift-macos-apps/
+          openSource: https://github.com/jaywcjlove/awesome-swift
+          homepage: https://wangchujiang.com/awesome-swift/
           meta:
             - <meta name="author" content="Kenny Wong">
             - <meta property="og:site_name" content="<%= site %>">
