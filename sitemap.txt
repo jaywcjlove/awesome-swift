@@ -1,2 +1,2 @@
-https://wangchujiang.com/awesome-swift/index.html
 https://wangchujiang.com/awesome-swift/index.zh.html
+https://wangchujiang.com/awesome-swift/index.html
