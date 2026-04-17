@@ -586,6 +586,7 @@ A curated list of Swift packages, libraries, tools, and learning resources for A
 - [SwiftCLI](https://github.com/jakeheis/SwiftCLI) - Framework for developing command line applications.
 - [Swiftline](https://github.com/nsomar/Swiftline) - Helper tools for creating command line apps.
 - [SwiftShell](https://github.com/kareman/SwiftShell) - Run shell commands and build command line apps from Swift.
+- [SwiftTerm](https://github.com/migueldeicaza/SwiftTerm) - Embeddable terminal emulator library for Swift apps.
 - [SwiftyTextTable](https://github.com/scottrhoyt/SwiftyTextTable) - Generate text tables in terminal output.
 - [Ignite](https://github.com/twostraws/Ignite) - Static site generator for building websites in Swift.
 - [Vapor](https://github.com/vapor/vapor) - Popular server-side Swift web framework.

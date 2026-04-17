@@ -586,6 +586,7 @@ Awesome Swift
 - [SwiftCLI](https://github.com/jakeheis/SwiftCLI) - 构建命令行应用的 Swift 框架。
 - [Swiftline](https://github.com/nsomar/Swiftline) - 辅助创建命令行应用的工具集。
 - [SwiftShell](https://github.com/kareman/SwiftShell) - 在 Swift 中运行 shell 命令并构建 CLI。
+- [SwiftTerm](https://github.com/migueldeicaza/SwiftTerm) - 可嵌入 Swift 应用的终端模拟器库。
 - [SwiftyTextTable](https://github.com/scottrhoyt/SwiftyTextTable) - 生成终端文本表格的轻量库。
 - [Ignite](https://github.com/twostraws/Ignite) - 用 Swift 构建静态网站的生成器。
 - [Vapor](https://github.com/vapor/vapor) - 最常见的 Swift 服务端 Web 框架之一。
