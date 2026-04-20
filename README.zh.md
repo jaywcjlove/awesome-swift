@@ -558,6 +558,7 @@ Awesome Swift
 - [KeychainAccess](https://github.com/kishikawakatsumi/KeychainAccess) - 更易用的 Keychain API 封装。
 - [PermissionFlow](https://github.com/jaywcjlove/PermissionFlow) - 用于 macOS 隐私权限授权引导和系统设置深层链接的 Swift 包。
 - [Permiso](https://github.com/zats/permiso) - 用于引导用户在设置应用中进行隐私权限配置的 Swift 库。
+- [AskForPermission](https://github.com/riko2chen/AskForPermission) - 精美的 macOS TCC 权限引导流程，支持拖拽式权限设置。
 - [JOSESwift](https://github.com/airsidemobile/JOSESwift) - 提供 JWS、JWE、JWT 支持。
 - [SwiftJWT](https://github.com/Kitura/Swift-JWT) - 创建和校验 JWT。
 - [CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) - 纯 Swift 实现的常用密码学算法库。
