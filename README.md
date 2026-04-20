@@ -557,6 +557,7 @@ A curated list of Swift packages, libraries, tools, and learning resources for A
 
 - [KeychainAccess](https://github.com/kishikawakatsumi/KeychainAccess) - Simple wrapper for Keychain APIs.
 - [PermissionFlow](https://github.com/jaywcjlove/PermissionFlow) - Swift Package for macOS privacy authorization guidance and system settings deeplinks.
+- [Permiso](https://github.com/zats/permiso) - Swift library for guiding users through privacy permissions in Settings app.
 - [JOSESwift](https://github.com/airsidemobile/JOSESwift) - JWS, JWE, and JWT support in Swift.
 - [SwiftJWT](https://github.com/Kitura/Swift-JWT) - Create and verify JWT tokens.
 - [CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) - Common cryptographic algorithms in pure Swift.
