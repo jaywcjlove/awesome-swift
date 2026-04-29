@@ -161,6 +161,7 @@ A curated list of Swift packages, libraries, tools, and learning resources for A
 - [SFSymbolsPicker](https://github.com/jaywcjlove/SFSymbolsPicker) - SwiftUI picker for browsing and selecting SF Symbols.
 - [swiftui-searchfield](https://github.com/jaywcjlove/swiftui-searchfield) - SwiftUI search field component that matches the native search style.
 - [Toast](https://github.com/jaywcjlove/Toast) - Lightweight toast notification system for SwiftUI.
+- [MarqueeText](https://github.com/harflabs/MarqueeText) - Lightweight SwiftUI marquee text component that auto-scrolls only when content overflows.
 - [swiftui-markdown](https://github.com/jaywcjlove/swiftui-markdown) - Render Markdown content in SwiftUI.
 - [swiftui-texteditor](https://github.com/jaywcjlove/swiftui-texteditor) - Enhanced SwiftUI text editor for iOS and macOS.
 - [swiftui-codemirror](https://github.com/jaywcjlove/swiftui-codemirror) - SwiftUI wrapper around CodeMirror 6 for code editing.

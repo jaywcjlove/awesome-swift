@@ -161,6 +161,7 @@ Awesome Swift
 - [SFSymbolsPicker](https://github.com/jaywcjlove/SFSymbolsPicker) - 用于选择 SF Symbols 的 SwiftUI 组件。
 - [swiftui-searchfield](https://github.com/jaywcjlove/swiftui-searchfield) - 样式接近系统搜索框的 SwiftUI 搜索输入组件。
 - [Toast](https://github.com/jaywcjlove/Toast) - 轻量级 SwiftUI Toast 提示组件。
+- [MarqueeText](https://github.com/harflabs/MarqueeText) - 轻量级 SwiftUI 跑马灯文本组件，仅在文本溢出时自动滚动。
 - [swiftui-markdown](https://github.com/jaywcjlove/swiftui-markdown) - 在 SwiftUI 中渲染 Markdown 内容。
 - [swiftui-texteditor](https://github.com/jaywcjlove/swiftui-texteditor) - 增强版 SwiftUI 文本编辑器，支持 iOS 和 macOS。
 - [swiftui-codemirror](https://github.com/jaywcjlove/swiftui-codemirror) - 基于 CodeMirror 6 的 SwiftUI 代码编辑器封装。
