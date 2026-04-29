@@ -491,6 +491,7 @@ A curated list of Swift packages, libraries, tools, and learning resources for A
 - [FDWaveformView](https://github.com/fulldecent/FDWaveformView) - Display audio waveforms in apps.
 - [ModernAVPlayer](https://github.com/noreasonprojects/ModernAVPlayer) - AVPlayer wrapper with better resume and background playback handling.
 - [Soundable](https://github.com/lcardevnas/Soundable) - Play sounds individually or in sequence with a simple API.
+- [SwiftVLC](https://github.com/harflabs/SwiftVLC) - Swift wrapper around libVLC for broad-format and network-stream media playback.
 - [SwiftAudioPlayer](https://github.com/tanhakabir/SwiftAudioPlayer) - Streaming audio player with realtime manipulations.
 - [SwiftySound](https://github.com/adamcichy/SwiftySound) - Play sounds with a single line of code.
 - [voice-overlay-ios](https://github.com/algolia/voice-overlay-ios) - Customizable voice input overlay for iOS.

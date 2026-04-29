@@ -491,6 +491,7 @@ Awesome Swift
 - [FDWaveformView](https://github.com/fulldecent/FDWaveformView) - 在应用中展示音频波形。
 - [ModernAVPlayer](https://github.com/noreasonprojects/ModernAVPlayer) - 改善续播和后台播放体验的 AVPlayer 封装。
 - [Soundable](https://github.com/lcardevnas/Soundable) - 用简洁 API 播放单个或连续声音。
+- [SwiftVLC](https://github.com/harflabs/SwiftVLC) - 基于 libVLC 的 Swift 封装，支持更多格式与网络流媒体播放。
 - [SwiftAudioPlayer](https://github.com/tanhakabir/SwiftAudioPlayer) - 支持流式播放和实时处理的音频播放器。
 - [SwiftySound](https://github.com/adamcichy/SwiftySound) - 一行代码播放声音的轻量库。
 - [voice-overlay-ios](https://github.com/algolia/voice-overlay-ios) - 可定制的 iOS 语音输入浮层。
