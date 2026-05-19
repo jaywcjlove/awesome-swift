@@ -164,6 +164,7 @@ Awesome Swift
 - [Toast](https://github.com/jaywcjlove/Toast) - 轻量级 SwiftUI Toast 提示组件。
 - [MarqueeText](https://github.com/harflabs/MarqueeText) - 轻量级 SwiftUI 跑马灯文本组件，仅在文本溢出时自动滚动。
 - [swiftui-markdown](https://github.com/jaywcjlove/swiftui-markdown) - 在 SwiftUI 中渲染 Markdown 内容。
+- [SwiftMarkdownEngine](https://github.com/nodes-app/swift-markdown-engine) - 用于 macOS 的原生 AppKit Markdown 编辑引擎，支持桥接到 SwiftUI。
 - [swiftui-texteditor](https://github.com/jaywcjlove/swiftui-texteditor) - 增强版 SwiftUI 文本编辑器，支持 iOS 和 macOS。
 - [swiftui-codemirror](https://github.com/jaywcjlove/swiftui-codemirror) - 基于 CodeMirror 6 的 SwiftUI 代码编辑器封装。
 - [Capable](https://github.com/chrs1885/Capable) - 跟踪无障碍设置并帮助界面适配可访问性需求。

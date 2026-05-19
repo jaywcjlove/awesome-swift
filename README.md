@@ -164,6 +164,7 @@ A curated list of Swift packages, libraries, tools, and learning resources for A
 - [Toast](https://github.com/jaywcjlove/Toast) - Lightweight toast notification system for SwiftUI.
 - [MarqueeText](https://github.com/harflabs/MarqueeText) - Lightweight SwiftUI marquee text component that auto-scrolls only when content overflows.
 - [swiftui-markdown](https://github.com/jaywcjlove/swiftui-markdown) - Render Markdown content in SwiftUI.
+- [SwiftMarkdownEngine](https://github.com/nodes-app/swift-markdown-engine) - Native AppKit Markdown editor engine for macOS with SwiftUI bridging.
 - [swiftui-texteditor](https://github.com/jaywcjlove/swiftui-texteditor) - Enhanced SwiftUI text editor for iOS and macOS.
 - [swiftui-codemirror](https://github.com/jaywcjlove/swiftui-codemirror) - SwiftUI wrapper around CodeMirror 6 for code editing.
 - [Capable](https://github.com/chrs1885/Capable) - Track accessibility settings and adapt UI for accessibility needs.
