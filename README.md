@@ -1,6 +1,7 @@
 
 <p style="display: inline_block">
-<sup>Using <a href="https://wangchujiang.com/#/app" target="_blank">my app</a> is also a way to <a href="https://wangchujiang.com/#/sponsor" target="_blank">support</a> me:</sup><br/>
+  <sup>Using <a href="https://wangchujiang.com/#/app" target="_blank">my app</a> is also a way to <a href="https://wangchujiang.com/#/sponsor" target="_blank">support</a> me:</sup><br/>
+  <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6766860898" title="Zipora: Zip/RAR/7Z Unarchiver"><img alt="Zipora: Zip/RAR/7Z Unarchiver" height="52" src="https://wangchujiang.com/appicon/zipora.png"></a>
   <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6758053530" title="Scap: Screenshot & Markup Edit for macOS"><img alt="Scap: Screenshot & Markup Edit" height="52" src="https://wangchujiang.com/appicon/scap.png"></a>
   <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6757317079" title="Screen Test for macOS"><img alt="Screen Test" height="52" src="https://wangchujiang.com/appicon/screen-test.png"></a>
   <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6755948110" title="Deskmark for macOS"><img alt="Deskmark" height="52" src="https://wangchujiang.com/appicon/deskmark.png"></a>
@@ -421,6 +422,7 @@ A curated list of Swift packages, libraries, tools, and learning resources for A
 - [GoodExtensions-iOS](https://github.com/GoodRequest/GoodExtensions-iOS) - Frequently used extensions for iOS development.
 - [GoodUIKit](https://github.com/GoodRequest/GoodUIKit) - Reusable UIKit snippets and UI extensions.
 - [Highlighter](https://github.com/younatics/Highlighter) - Highlight labels, text views, and other UI elements automatically.
+- [HighlighterSwift](https://github.com/smittytone/HighlighterSwift) - Swift wrapper around Highlight.js for syntax highlighting code.
 - [LifetimeTracker](https://github.com/krzysztofzablocki/LifetimeTracker) - Surface retain cycle and memory issues during development.
 - [OpenSourceController](https://github.com/floriangbh/OpenSourceController) - Display open source licenses used in your app.
 - [Percentage](https://github.com/sindresorhus/Percentage) - Type-safe and readable percentage values.

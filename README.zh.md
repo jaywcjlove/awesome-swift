@@ -1,6 +1,7 @@
-
 <p style="display: inline_block">
-<sup>Using <a href="https://wangchujiang.com/#/app" target="_blank">my app</a> is also a way to <a href="https://wangchujiang.com/#/sponsor" target="_blank">support</a> me:</sup><br/>
+  <sup>使用<a href="https://wangchujiang.com/#/app" target="_blank">我的应用</a>，也是对我的<a href="https://wangchujiang.com/#/sponsor" target="_blank">支持</a>：</sup>
+  <br>
+  <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6766860898" title="Zipora: Zip/RAR/7Z 解压工具"><img alt="Zipora: Zip/RAR/7Z 解压工具" height="52" src="https://wangchujiang.com/appicon/zipora.png"></a>
   <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6758053530" title="Scap: Screenshot & Markup Edit for macOS"><img alt="Scap: Screenshot & Markup Edit" height="52" src="https://wangchujiang.com/appicon/scap.png"></a>
   <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6757317079" title="Screen Test for macOS"><img alt="Screen Test" height="52" src="https://wangchujiang.com/appicon/screen-test.png"></a>
   <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6755948110" title="Deskmark for macOS"><img alt="Deskmark" height="52" src="https://wangchujiang.com/appicon/deskmark.png"></a>
@@ -421,6 +422,7 @@ Awesome Swift
 - [GoodExtensions-iOS](https://github.com/GoodRequest/GoodExtensions-iOS) - iOS 开发常用扩展集合。
 - [GoodUIKit](https://github.com/GoodRequest/GoodUIKit) - 可复用的 UIKit 代码片段与扩展库。
 - [Highlighter](https://github.com/younatics/Highlighter) - 自动高亮 UILabel、UITextView 等界面元素。
+- [HighlighterSwift](https://github.com/smittytone/HighlighterSwift) - Highlight.js 的 Swift 封装，用于代码语法高亮。
 - [LifetimeTracker](https://github.com/krzysztofzablocki/LifetimeTracker) - 在开发时暴露循环引用和内存问题。
 - [OpenSourceController](https://github.com/floriangbh/OpenSourceController) - 展示应用中使用的开源许可证信息。
 - [Percentage](https://github.com/sindresorhus/Percentage) - 更易读且类型安全的百分比值工具。
