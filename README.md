@@ -424,6 +424,7 @@ A curated list of Swift packages, libraries, tools, and learning resources for A
 - [GoodUIKit](https://github.com/GoodRequest/GoodUIKit) - Reusable UIKit snippets and UI extensions.
 - [Highlighter](https://github.com/younatics/Highlighter) - Highlight labels, text views, and other UI elements automatically.
 - [HighlighterSwift](https://github.com/smittytone/HighlighterSwift) - Swift wrapper around Highlight.js for syntax highlighting code.
+- [HighlightSwift](https://github.com/appstefan/HighlightSwift) - Convert code strings into syntax highlighted `AttributedString` in Swift and SwiftUI.
 - [SwiftMath](https://github.com/mgriebling/SwiftMath) - Render LaTeX math equations in iOS and macOS apps.
 - [LifetimeTracker](https://github.com/krzysztofzablocki/LifetimeTracker) - Surface retain cycle and memory issues during development.
 - [OpenSourceController](https://github.com/floriangbh/OpenSourceController) - Display open source licenses used in your app.

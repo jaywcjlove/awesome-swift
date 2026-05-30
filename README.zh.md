@@ -424,6 +424,7 @@ Awesome Swift
 - [GoodUIKit](https://github.com/GoodRequest/GoodUIKit) - 可复用的 UIKit 代码片段与扩展库。
 - [Highlighter](https://github.com/younatics/Highlighter) - 自动高亮 UILabel、UITextView 等界面元素。
 - [HighlighterSwift](https://github.com/smittytone/HighlighterSwift) - Highlight.js 的 Swift 封装，用于代码语法高亮。
+- [HighlightSwift](https://github.com/appstefan/HighlightSwift) - 将代码字符串转换为语法高亮的 `AttributedString`，支持 Swift 和 SwiftUI。
 - [SwiftMath](https://github.com/mgriebling/SwiftMath) - 在 iOS 和 macOS 中渲染 LaTeX 数学公式。
 - [LifetimeTracker](https://github.com/krzysztofzablocki/LifetimeTracker) - 在开发时暴露循环引用和内存问题。
 - [OpenSourceController](https://github.com/floriangbh/OpenSourceController) - 展示应用中使用的开源许可证信息。
