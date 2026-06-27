@@ -510,6 +510,7 @@ A curated list of Swift packages, libraries, tools, and learning resources for A
 - [Player](https://github.com/piemonte/Player) - Drop-in video player component for iOS.
 - [PryntTrimmerView](https://github.com/HHK1/PryntTrimmerView) - Trim and crop video in iOS apps.
 - [SwiftFFmpeg](https://github.com/sunlubo/SwiftFFmpeg) - Wrapper for the FFmpeg C API in Swift.
+- [FFmpegKit](https://github.com/jaywcjlove/ffmpeg-kit) - FFmpegKit for iOS and macOS with a Swift API and minimal C bridge to FFmpeg.
 - [MMPlayerView](https://github.com/MillmanY/MMPlayerView) - Custom AVPlayer-based view with transition effects.
 - [MobilePlayer](https://github.com/sahin/mobileplayer-ios) - Customizable media player for iOS.
 - [PlayerView](https://github.com/davidlondono/PlayerView) - UIView-based video player with state callbacks.

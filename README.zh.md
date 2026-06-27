@@ -510,6 +510,7 @@ Awesome Swift
 - [Player](https://github.com/piemonte/Player) - 可直接集成的 iOS 视频播放器组件。
 - [PryntTrimmerView](https://github.com/HHK1/PryntTrimmerView) - 视频裁剪与修剪组件。
 - [SwiftFFmpeg](https://github.com/sunlubo/SwiftFFmpeg) - FFmpeg C API 的 Swift 封装。
+- [FFmpegKit](https://github.com/jaywcjlove/ffmpeg-kit) - 面向 iOS 和 macOS 的 FFmpegKit，提供 Swift API 和极简 C 桥接层。
 - [MMPlayerView](https://github.com/MillmanY/MMPlayerView) - 带过渡效果的自定义 AVPlayer 视图。
 - [MobilePlayer](https://github.com/sahin/mobileplayer-ios) - 可高度定制的 iOS 媒体播放器。
 - [PlayerView](https://github.com/davidlondono/PlayerView) - 带状态回调的 UIView 视频播放器。
